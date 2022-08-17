@@ -6,7 +6,7 @@
     "scripts": {
         "serve": "webpack serve --mode=development",
         "build": "webpack",
-        "serveProd": "http-server ./dist -p 8990"
+        "serveProd": "http-server ./dist -p 80"
     },
     "author": "",
     "license": "ISC",
